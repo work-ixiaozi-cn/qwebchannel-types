@@ -1,0 +1,28 @@
+{
+  "name": "@types/qwebchannel",
+  "version": "0.0.1",
+  "description": "TypeScript type definitions for the qwebchannel package",
+  "main": "index.d.ts",
+  "types": "index.d.ts",
+  "author": "xiaozi@ixiaozi.cn",
+  "license": "MIT",
+  "peerDependencies": {
+    "qwebchannel": "^6.2.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "exports": {
+    ".": {
+        "types": "./index.d.ts"
+    }
+  },
+  "keywords": [
+    "qt",
+    "types",
+    "webchannel"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ant-design/ant-design"
+  }
+}

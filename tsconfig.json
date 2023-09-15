@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "declaration": true,
+      "outDir": "./dist",
+      "module": "commonjs",
+      "strict": true,
+      "esModuleInterop": true
+    },
+    "include": ["index.d.ts"]
+  }
